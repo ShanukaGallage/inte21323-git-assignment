@@ -13,3 +13,5 @@ if __name__ == "__main__":
     # Print the result
     print(f"The sum of {num1} and {num2} is {result}")
 
+def subtract_numbers(a, b):
+    return a - b
